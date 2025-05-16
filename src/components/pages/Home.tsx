@@ -5,7 +5,7 @@ import locationIcon from "@/assets/icons/location.svg";
 import trashIcon from "@/assets/icons/trash.svg";
 import truckIcon from "@/assets/icons/truck.svg";
 import permitIcon from "@/assets/icons/permit.svg";
-import calendarIcon from "@/assets/icons/calendar.svg";
+import calendarIcon from "@/assets/icons/calender.svg";
 import paymentIcon from "@/assets/icons/payment.svg";
 
 const Layout = styled.div`
