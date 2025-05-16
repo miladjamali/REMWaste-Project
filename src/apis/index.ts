@@ -1,0 +1,1 @@
+export {getSkips} from './services/skips'

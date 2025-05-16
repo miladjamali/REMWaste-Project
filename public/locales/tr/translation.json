@@ -1,0 +1,7 @@
+{
+  "title": "hoş geldiniz",
+  "description": {
+    "part1": "Başlamak için, <1>src/App(TR).js</1> dosyasını değiştirin ve yeniden yüklemek için kaydedin.",
+    "part2": "İki düğmeyi kullanarak dilini Almanca ve İngilizce arasında değiştirin."
+  }
+}

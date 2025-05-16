@@ -1,0 +1,5 @@
+export enum StepKey {
+  Postcode = 'postcode',
+  Address = 'address',
+  Confirm = 'confirm',
+}
